@@ -1,0 +1,24 @@
+[17:08:45] [INFO] Player vqizog is experiencing lag.
+[17:08:45] [INFO] Lag duration: 2 seconds.
+[17:08:45] [INFO] Possible causes:
+[17:08:45] [INFO] 1. High server load
+[17:08:45] [INFO] 2. Network latency
+[17:08:45] [INFO] 3. Chunk generation
+[17:08:45] [INFO] Recommended actions:
+[17:08:45] [INFO] 1. Monitor server performance
+[17:08:45] [INFO] 2. Check player's network connection
+[17:08:45] [INFO] 3. Limit mobs or entities if necessary
+[17:08:45] [INFO] Immediate attention required to improve player experience.
+[17:08:49] [LazyLog] Warning: vqizog spamming packets 6540 incoming bytes!
+[17:08:45] [INFO] Player vqizog is experiencing lag.
+[17:08:52] [INFO] Lag duration: 0.5 seconds.
+[17:08:42] [INFO] Possible causes:
+[17:08:42] [INFO] 1. High server load
+[17:08:42] [INFO] 2. Network latency
+[17:08:42] [INFO] 3. Chunk generation
+[17:08:42] [INFO] Recommended actions:
+[17:08:42] [INFO] 1. Monitor server performance
+[17:08:42] [INFO] 2. Check player's network connection
+[17:08:42] [INFO] 3. Limit mobs or entities if necessary
+[17:08:42] [INFO] Immediate attention required to improve player experience.
+[17:08:42] [LazyLog] Warning: vqizog spamming packets 6540 incoming bytes!
